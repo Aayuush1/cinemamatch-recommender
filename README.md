@@ -88,19 +88,18 @@ Our SVD-based approach achieves **70.5% improvement** in RMSE over baseline meth
 ## 🖼️ Visualizations
 
 ### 1. Exploratory Data Analysis
-![EDA Analysis](eda_analysis.png)
-*Six-panel analysis revealing rating distributions, user behavior patterns, and statistical properties*
+![EDA Analysis](outputs/eda_analysis.png)*Six-panel analysis revealing rating distributions, user behavior patterns, and statistical properties*
 
 ### 2. Model Evaluation
-![Model Evaluation](model_evaluation.png)
+![Model Evaluation](outputs/model_evaluation.png)
 *Prediction accuracy, error distribution, and singular value spectrum analysis*
 
 ### 3. Latent Space Visualization
-![Latent Space](latent_space.png)
+![Latent Space](outputs/latent_space.png)
 *2D projection of movies in learned feature space - movies cluster by similarity*
 
 ### 4. Algorithm Comparison
-![Algorithm Comparison](algorithm_comparison.png)
+![Algorithm Comparison](outputs/algorithm_comparison.png)
 *Quantitative comparison demonstrating SVD's superior performance*
 
 ---
