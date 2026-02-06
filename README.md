@@ -325,12 +325,12 @@ Where v_i is movie i's latent feature vector.
 
 ## 👨‍💻 About the Author
 
-**[Your Name]**  
+**Aayuush**  
 First-Year AI & Data Science Student | IIT Jodhpur
 
 Passionate about applying mathematical foundations to solve real-world problems. This project represents the culmination of first-semester learning in linear algebra, numerical analysis, statistics, and programming.
 
-**Connect:** [LinkedIn](your-linkedin) | [GitHub](your-github) | [Email](your-email)
+**Connect:** [LinkedIn](https://linkedin.com/in/aayuush1) | [GitHub](https://github.com/Aayuush1) | [Email](mailto:aayuush.bs@gmail.com)
 
 ---
 
